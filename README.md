@@ -5,3 +5,6 @@ Na primeira aula foram criados os somadores de 1 bit e 4 bits.
 
 ## Aula 2
 Na segunda aula foram criados os subtratores de 1 bit e 4 bits.
+
+## Aula 3
+Na terceira aula foram criados o buffeer, o buffer invertido e o decodificador.

@@ -14,3 +14,6 @@ Na quarta aula foi criado o rotacionador esquerdo.
 
 ## Aula 5
 Na qinta aula foram criados o rotacionador direito, a porta or de 4 bits e a macro da ULA
+
+## Aula 5
+Na sexta aula foram corrigidos erros na porta or e criadas as saídas zero e overflow da ULA.

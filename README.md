@@ -6,9 +6,9 @@ O projeto consite na criação de um processador de 4-bits no simulador *Logisim
 
 Na primeira aula foram criados os somadores de 1 bit e 4 bits.  
   
-<img src="https://github.com/Welontom/Arquitetura/assets/125558184/9ce7faee-b721-48d1-b918-56eaf8f49315" width="50%" height="50%">  
+<img src="https://github.com/Welontom/Arquitetura/assets/125558184/9ce7faee-b721-48d1-b918-56eaf8f49315" width="70%" height="70%">  
 Figura 1.1: Somador de 1 bit.  
-<img src="https://github.com/Welontom/Arquitetura/assets/125558184/08fafada-d597-46d3-b63e-4241f447af4c" width="50%" height="50%">  
+<img src="https://github.com/Welontom/Arquitetura/assets/125558184/08fafada-d597-46d3-b63e-4241f447af4c" width="70%" height="70%">  
 Figura 1.2: Somador de 4 bits.  
 
 ## Aula 2

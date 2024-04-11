@@ -44,11 +44,11 @@ Figura 4.1: Rotacionador Esquerdo.
 Na quinta aula foram criados o rotacionador direito, a porta or de 4 bits e a macro da ULA
 
 <img src="https://github.com/Welontom/Arquitetura/assets/125558184/154713ad-8433-4dc7-819d-e5b654afa63a" width="50%" height="50%">  
-Figura 5.1: Rotacionador direito. Note que a única diferença entre o rotacionador esquerdo e direito é o distribuidor da saída.
-<img src="https://github.com/Welontom/Arquitetura/assets/125558184/8ca0c752-6b9c-4ff0-8778-aa9b6ec9663b" width="50%" height="50%">
-Figura 5.2: Porta or de 4 bits.
-<img src="https://github.com/Welontom/Arquitetura/assets/125558184/79578249-feb3-4e84-8655-16a31c22efb1" width="50%" height="50%">  
-Figura 5.3: ULA.
+Figura 5.1: Rotacionador direito. Note que a única diferença entre o rotacionador esquerdo e direito é o distribuidor da saída.  
+<img src="https://github.com/Welontom/Arquitetura/assets/125558184/8ca0c752-6b9c-4ff0-8778-aa9b6ec9663b" width="50%" height="50%">  
+Figura 5.2: Porta or de 4 bits.  
+<img src="https://github.com/Welontom/Arquitetura/assets/125558184/79578249-feb3-4e84-8655-16a31c22efb1" width="50%" height="50%">    
+Figura 5.3: ULA.  
 
 ## Aula 6
 

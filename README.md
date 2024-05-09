@@ -2,6 +2,10 @@
 
 O projeto consite na criação de um processador de 4-bits no simulador *Logisim.* Desenvolvido durante o 3º período nas aulas de Arquitetura de Computadores.
 
+## Instruction Set
+<img src="https://github.com/Welontom/Arquitetura/assets/125558184/35af07d4-702b-4c1d-8754-d4d1bcc45939" width="50%" height="50%">
+
+
 ## Aula 1
 
 Na primeira aula foram criados os somadores de 1 bit e 4 bits.  
